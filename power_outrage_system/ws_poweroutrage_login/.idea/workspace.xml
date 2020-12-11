@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c5deadfe-2a4e-4e02-a36c-26e466415253" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\javacloudmc167\.m2\wrapper\dists\apache-maven-3.6.3-bin\1iopthnavndlasol9gbrbg6bf2\apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1fu64qgabak9qaWvWTQ20MopEt1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/../security/src/main/java/com/poweroutrage" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ws_poweroutrage_users/src/main/java/com/poweroutrage/users/register/service" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.poweroutrage.incident" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.poweroutrage.users.register.filter" />
+      <recent name="com.poweroutrage.users.register.util" />
+      <recent name="com.poweroutrage.users.register.configuration" />
+      <recent name="com.poweroutrage.users.configuration" />
+      <recent name="com.poweroutrage.incident.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\power_outrage_system\ws_poweroutrage_users\src\main\java\com\poweroutrage\users\register\service" />
+      <recent name="D:\power_outrage_system\ws_poweroutrage_incident\src\test\resources\json" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.UsersServiceTest">
+    <configuration name="Application (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.poweroutrage.incident.Application" />
+      <module name="ws_poweroutrage_incident" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.poweroutrage.incident.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.poweroutrage.zuulapigateway.Application" />
+      <module name="zuul-api-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.poweroutrage.zuulapigateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.poweroutrage.eureka.Application" />
+      <module name="eureka_server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.poweroutrage.eureka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application1" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.poweroutrage.users.register.Application" />
+      <module name="ws_poweroutrage_users" />
+      <shortenClasspath name="MANIFEST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.poweroutrage.users.register.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsersServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ws_poweroutrage_users" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.poweroutrage.users.register.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.poweroutrage.users.register.service" />
+      <option name="MAIN_CLASS_NAME" value="com.poweroutrage.users.register.service.UsersServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="ws_poweroutrage_incident" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="ws_poweroutrage_incident" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Application1" />
+      <item itemvalue="Application.Application (3)" />
+      <item itemvalue="Application.Application" />
+      <item itemvalue="JUnit.UsersServiceTest" />
+      <item itemvalue="Application.Application (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UsersServiceTest" />
+        <item itemvalue="Application.Application1" />
+        <item itemvalue="Application.Application (1)" />
+        <item itemvalue="Application.Application (3)" />
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5deadfe-2a4e-4e02-a36c-26e466415253" name="Default Changelist" comment="" />
+      <created>1597055447532</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597055447532</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="128" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597759148619">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="128" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1597759148619" />
+    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1597574182449" />
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1597575493225">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1597575493225" />
+    <state x="445" y="0" key="#com.intellij.ide.util.MemberChooser" timestamp="1597923393600">
+      <screen x="0" y="0" width="1280" height="538" />
+    </state>
+    <state x="445" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1280.538@0.0.1280.538" timestamp="1597923393600" />
+    <state x="445" y="55" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1597763961747" />
+    <state x="387" y="130" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1597731484285">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="387" y="130" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1597731484285" />
+    <state x="413" y="139" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1597574175617" />
+    <state x="412" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1597574139731">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1597574139731" />
+    <state x="462" y="264" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1597732806029">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="462" y="264" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1597732806029" />
+    <state x="352" y="232" width="817" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1597112894928">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="352" y="232" width="817" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1597112894928" />
+    <state x="235" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1597649318852">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="235" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1597649318852" />
+    <state x="404" y="107" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1597114214469" />
+    <state x="410" y="62" key="#xdebugger.evaluate" timestamp="1597582664752">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="410" y="62" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1597582664752" />
+    <state x="438" y="66" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1597517170755" />
+    <state x="441" y="213" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1597430813376">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="441" y="213" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1597430813376" />
+    <state x="420" y="0" key="FileChooserDialogImpl" timestamp="1597684312819">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="420" y="0" key="FileChooserDialogImpl/0.0.1280.538@0.0.1280.538" timestamp="1597055513302" />
+    <state x="420" y="0" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1597684312819" />
+    <state x="448" y="0" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597115205269" />
+    <state width="1237" height="313" key="GridCell.Tab.0.bottom" timestamp="1597941774588">
+      <screen x="0" y="0" width="1280" height="538" />
+    </state>
+    <state width="1237" height="313" key="GridCell.Tab.0.bottom/0.0.1280.538@0.0.1280.538" timestamp="1597941774588" />
+    <state width="1237" height="313" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597941127446" />
+    <state width="1323" height="225" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597577422367" />
+    <state width="1237" height="313" key="GridCell.Tab.0.center" timestamp="1597941774588">
+      <screen x="0" y="0" width="1280" height="538" />
+    </state>
+    <state width="1237" height="313" key="GridCell.Tab.0.center/0.0.1280.538@0.0.1280.538" timestamp="1597941774588" />
+    <state width="1237" height="313" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1597941127445" />
+    <state width="1323" height="225" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597577422367" />
+    <state width="1237" height="313" key="GridCell.Tab.0.left" timestamp="1597941774587">
+      <screen x="0" y="0" width="1280" height="538" />
+    </state>
+    <state width="1237" height="313" key="GridCell.Tab.0.left/0.0.1280.538@0.0.1280.538" timestamp="1597941774587" />
+    <state width="1237" height="313" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1597941127445" />
+    <state width="1323" height="225" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597577422367" />
+    <state width="1237" height="313" key="GridCell.Tab.0.right" timestamp="1597941774588">
+      <screen x="0" y="0" width="1280" height="538" />
+    </state>
+    <state width="1237" height="313" key="GridCell.Tab.0.right/0.0.1280.538@0.0.1280.538" timestamp="1597941774588" />
+    <state width="1237" height="313" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1597941127446" />
+    <state width="1323" height="225" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597577422367" />
+    <state width="1237" height="202" key="GridCell.Tab.1.bottom" timestamp="1597930919036">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="203" key="GridCell.Tab.1.bottom/0.0.1280.538@0.0.1280.538" timestamp="1597234071855" />
+    <state width="1237" height="202" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597930919036" />
+    <state width="1323" height="222" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597576297495" />
+    <state width="1237" height="202" key="GridCell.Tab.1.center" timestamp="1597930919035">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="203" key="GridCell.Tab.1.center/0.0.1280.538@0.0.1280.538" timestamp="1597234071855" />
+    <state width="1237" height="202" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1597930919035" />
+    <state width="1323" height="222" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1597576297495" />
+    <state width="1237" height="202" key="GridCell.Tab.1.left" timestamp="1597930919035">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="203" key="GridCell.Tab.1.left/0.0.1280.538@0.0.1280.538" timestamp="1597234071855" />
+    <state width="1237" height="202" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1597930919035" />
+    <state width="1323" height="222" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1597576297495" />
+    <state width="1237" height="202" key="GridCell.Tab.1.right" timestamp="1597930919035">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="203" key="GridCell.Tab.1.right/0.0.1280.538@0.0.1280.538" timestamp="1597234071855" />
+    <state width="1237" height="202" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1597930919035" />
+    <state width="1323" height="222" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1597576297495" />
+    <state x="220" y="74" key="IDE.errors.dialog" timestamp="1597225924782">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="220" y="74" key="IDE.errors.dialog/0.0.1280.680@0.0.1280.680" timestamp="1597225924782" />
+    <state x="313" y="68" key="NewModule_or_Project.wizard" timestamp="1597114177206">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="313" y="68" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1597114177206" />
+    <state x="120" y="0" key="SettingsEditor" timestamp="1597684329004">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="120" y="0" key="SettingsEditor/0.0.1280.538@0.0.1280.538" timestamp="1597226458764" />
+    <state x="120" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1597684329004" />
+    <state x="128" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1597115279513" />
+    <state x="456" y="117" key="chooseDestDirectoryDialog" timestamp="1597732785424">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="456" y="117" key="chooseDestDirectoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1597732785424" />
+    <state x="370" y="3" width="625" height="723" key="find.popup" timestamp="1597430103526">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="347" y="2" width="585" height="534" key="find.popup/0.0.1280.538@0.0.1280.538" timestamp="1597225477060" />
+    <state x="347" y="3" width="585" height="675" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1597315920643" />
+    <state x="370" y="3" width="625" height="723" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1597430103526" />
+    <state x="194" y="0" key="new project wizard" timestamp="1597683989900">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="194" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1597683989900" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../ws_poweroutrage_incident/src/main/java/com/poweroutrage/incident/service/IncidentService.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../ws_poweroutrage_incident/src/test/java/com/poweroutrage/incident/service/IncidentServiceTest.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../ws_poweroutrage_incident/src/test/java/com/poweroutrage/incident/service/IncidentServiceTest.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../ws_poweroutrage_incident/src/main/java/com/poweroutrage/incident/service/IncidentService.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ws_poweroutrage_login$com_poweroutrage_incident_in_ws_poweroutrage_incident.ic" NAME="com.poweroutrage.incident in ws_poweroutrage_incident Coverage Results" MODIFIED="1597731393886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.poweroutrage.incident.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/ws_poweroutrage_login$UsersControllerTest.ic" NAME="UsersControllerTest Coverage Results" MODIFIED="1597924451688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.poweroutrage.users.register.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/ws_poweroutrage_login$IncidentControllerTest.ic" NAME="IncidentControllerTest Coverage Results" MODIFIED="1597579240844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.poweroutrage.incident.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/ws_poweroutrage_login$UsersServiceTest.ic" NAME="UsersServiceTest Coverage Results" MODIFIED="1597939409122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.poweroutrage.users.register.service.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/ws_poweroutrage_login$IncidentControllerTest_getCallTests.ic" NAME="IncidentControllerTest.getCallTests Coverage Results" MODIFIED="1597576658333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.poweroutrage.incident.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/ws_poweroutrage_login$IncidentServiceTest.ic" NAME="IncidentServiceTest Coverage Results" MODIFIED="1597728101944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.poweroutrage.incident.service.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/ws_poweroutrage_login$com_poweroutrage_users_register_in_ws_poweroutrage_users.ic" NAME="com.poweroutrage.users.register in ws_poweroutrage_users Coverage Results" MODIFIED="1597574191049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.poweroutrage.users.register.*</FILTER>
+      <EXCLUDED_FILTER>com.poweroutrage.users.register.configuration.*</EXCLUDED_FILTER>
+      <EXCLUDED_FILTER>com.poweroutrage.users.register.model.*</EXCLUDED_FILTER>
+    </SUITE>
+  </component>
+</project>

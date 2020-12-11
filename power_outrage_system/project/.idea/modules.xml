@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../lib_powermanagement_incident_creation/lib_powermanagement_incident_creation.iml" filepath="$PROJECT_DIR$/../lib_powermanagement_incident_creation/lib_powermanagement_incident_creation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lib_poweroutrage_dto/lib_poweroutrage_dto.iml" filepath="$PROJECT_DIR$/../lib_poweroutrage_dto/lib_poweroutrage_dto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ws_poweroutrage_register/ws_poweroutrage_register.iml" filepath="$PROJECT_DIR$/../ws_poweroutrage_register/ws_poweroutrage_register.iml" />
+    </modules>
+  </component>
+</project>

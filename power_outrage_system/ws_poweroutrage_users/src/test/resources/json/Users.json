@@ -1,0 +1,14 @@
+{
+  "userId": "Adm_1",
+  "name": "Radha",
+  "userName": "radha_usr",
+  "password": "123",
+  "address": "Chennai",
+  "state": "TamilNadu",
+  "country": "India",
+  "zipCode": "613009",
+  "email": "srkrocky0@gmail.com",
+  "pan": "asdf",
+  "contactNumber": 9003527157,
+  "accountType": "Admin"
+}
